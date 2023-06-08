@@ -3,7 +3,6 @@
 This is a personal challenge I undertook to learn single-cell RNA sequencing (scRNAseq) analysis.
 
 1. For this purpose, I decided to reconstruct a Nature paper (https://www.nature.com/articles/s41586-021-03569-1). 
-
    The authors in this study investigated lung cells from multiple COVID-19 patients who succumbed to the disease, to construct a comprehensive cellular atlas.
 
 2. As a native Python programmer, I chose to utilize the Scanpy package for the task. 
