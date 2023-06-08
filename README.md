@@ -1,3 +1,5 @@
+## **Single-cell RNA Sequencing analysis project** 
+
 This is a personal challenge I undertook to learn single-cell RNA sequencing (scRNAseq) analysis.
 
 1. For this purpose, I decided to reconstruct a Nature paper (https://www.nature.com/articles/s41586-021-03569-1). 
