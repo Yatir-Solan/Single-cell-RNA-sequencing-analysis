@@ -318,7 +318,7 @@ plt.show()
 
 
 
-![png](first_visualization_plot.png)
+![png](plots_along_the_analysis/first_visualization_plot.png)
 
 
 ---
@@ -467,7 +467,7 @@ sc.pl.umap(adata, color=['AGER', 'leiden', 'cell_type'] , frameon=False, legend_
 
 
 
-![png](cell_labeling_work_illustration_plot.png)
+![png](plots_along_the_analysis/cell_labeling_work_illustration_plot.png)
 
 
 ---
@@ -803,7 +803,7 @@ plt.show()
 
 
 
-![png](fig1_b_c_d.png)
+![png](restored_figures/fig1_b_c_d.png)
 
 
 ---
@@ -879,7 +879,7 @@ plt.show()
 
 
 
-![png](fig3_a_b.png)
+![png](restored_figures/fig3_a_b.png)
 
 
 
@@ -936,7 +936,7 @@ plt.show()
 
 
 
-![png](fig3_f.png)
+![png](restored_figures/fig3_f.png)
 
 
 
@@ -1012,7 +1012,7 @@ plt.show()
 
 
 
-![png](fig3_h.png)
+![png](restored_figures/fig3_h.png)
 
 
 
@@ -1167,7 +1167,7 @@ plt.show()
 ```
 
 
-![png](fig3_d_e_g_i.png)
+![png](restored_figures/fig3_d_e_g_i.png)
 
 
 
@@ -1195,7 +1195,7 @@ sc.pl.umap(AT_adata, color=['AT_cell_type'], legend_loc='on data', frameon=False
 
 
 
-![png](AT_cells_high_res_clustering_plot.png)
+![png](plots_along_the_analysis/AT_cells_high_res_clustering_plot.png)
 
 
 
@@ -1224,5 +1224,5 @@ plt.show()
 ```
 
 
-![png](fig_3_c_draft.png)
+![png](plots_along_the_analysis/fig_3_c_draft.png)
 
