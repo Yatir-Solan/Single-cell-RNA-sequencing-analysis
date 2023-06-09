@@ -237,7 +237,7 @@ adata = adata[:, adata.var.highly_variable]
 
 
 
-![png](highly_variable_gens_plot.png)
+![png](plots_along_the_analysis/highly_variable_gens_plot.png)
 
 
 ##### **PCA** (Principle component analysis)
