@@ -1224,5 +1224,5 @@ plt.show()
 ```
 
 
-![png](single_cell_analysis_files/single_cell_analysis_44_0.png)
+![png](fig_3_c_draft.png)
 
