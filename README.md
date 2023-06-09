@@ -12,7 +12,7 @@ But frankly, the most significant advantage of Scanpy is just that it's in Pytho
 
 3. I took advantage of this work to raise my visualization skills by making sure to create plots designed similarly as possible to the plots in the article.
 
-4. All the code can be examined in the jupyter notebook (single_cell_analysis.md or [less preferably] single_cell_analysis.ipynb) present. The reconstructed figures are also given as png files.
+4. All the code can be examined in the jupyter notebook (single_cell_analysis.md or single_cell_analysis.ipynb) present. The reconstructed figures are also given as png files.
 
 This project is an ongoing endeavor, and I welcome any questions, tips, critiques, or suggestions that could help me enhance my skills.
 
