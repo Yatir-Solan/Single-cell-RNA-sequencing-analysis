@@ -877,7 +877,7 @@ plt.show()
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_37_1.png)
+![png](fig3_a_b.png)
 
 
 
@@ -934,7 +934,7 @@ plt.show()
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_38_1.png)
+![png](fig3_f.png)
 
 
 
@@ -1010,7 +1010,7 @@ plt.show()
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_39_1.png)
+![png](fig3_h.png)
 
 
 
@@ -1165,7 +1165,7 @@ plt.show()
 ```
 
 
-![png](single_cell_analysis_files/single_cell_analysis_41_0.png)
+![png](fig3_d_e_g_i.png)
 
 
 
