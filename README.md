@@ -13,6 +13,8 @@ This notebook is the outcome of a personal challenge I undertook to learn single
 
 3. I took advantage of this work to raise my visualization skills by making sure to create plots designed similarly as possible to the plots in the article.
 
+4. All the code can be examined in the Jupyter notebook present in the repository. The reconstructed figures are also given as png files.
+
 This project is an ongoing endeavor, and I welcome any questions, tips, critiques, or suggestions that could help me enhance my skills.
 
 **Yatir.**
