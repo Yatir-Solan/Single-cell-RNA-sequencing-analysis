@@ -19,3 +19,5 @@ This project is an ongoing endeavor, and I welcome any questions, tips, critique
 **Yatir.**
 
 June 8, 2023
+
+![alt text](restored_figures/fig1_b_c_d.png)
