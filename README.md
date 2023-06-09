@@ -237,7 +237,7 @@ adata = adata[:, adata.var.highly_variable]
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_14_1.png)
+![png](highly_variable_gens_plot.png)
 
 
 ##### **PCA** (Principle component analysis)
@@ -318,7 +318,7 @@ plt.show()
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_20_1.png)
+![png](first_visualization_plot.png)
 
 
 ---
@@ -467,7 +467,7 @@ sc.pl.umap(adata, color=['AGER', 'leiden', 'cell_type'] , frameon=False, legend_
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_28_1.png)
+![png](cell_labeling_work_illustration_plot.png)
 
 
 ---
@@ -1195,7 +1195,7 @@ sc.pl.umap(AT_adata, color=['AT_cell_type'], legend_loc='on data', frameon=False
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_42_1.png)
+![png](AT_cells_high_res_clustering_plot.png)
 
 
 
