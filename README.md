@@ -801,7 +801,7 @@ plt.show()
 
 
 
-![png](single_cell_analysis_files/single_cell_analysis_34_1.png)
+![png](fig1_b_c_d.png)
 
 
 ---
